@@ -1,0 +1,1 @@
+webpackJsonp([39],{RKlz:function(e,t,l){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={name:"complexTable",components:{listPage:l("68S3").default}},s={render:function(){var e=this.$createElement;return(this._self._c||e)("listPage")},staticRenderFns:[]},a=l("VU/8")(n,s,!1,null,null,null);t.default=a.exports}});
